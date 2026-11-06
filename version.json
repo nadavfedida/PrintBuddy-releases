@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.4/X2D_Companion_LVGL.bin",
-  "sha256": "bfd31db9aaeab504718b5a41968b01d0b8999d0f948a7b1ccd40db59c94bcad0",
-  "notes": "Signed update test"
+  "version": "0.3.5",
+  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.5/X2D_Companion_LVGL.bin",
+  "sha256": "07c6499a4552f57e384fbd3033c9f16f643638730b7f9967aa44bdc0735345bc",
+  "notes": "Per-printer data: statistics, maintenance hours and history are kept separately for each printer, with a manual swap in Settings > Data."
 }
