@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.1/X2D_Companion_LVGL.bin",
-  "notes": "Test release: internet update check"
+  "version": "0.3.2",
+  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.2/X2D_Companion_LVGL.bin",
+  "notes": "Fix: internet update download"
 }
