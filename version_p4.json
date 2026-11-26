@@ -1,6 +1,6 @@
 {
-  "version": "0.3.18",
-  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.18-p4/X2D_Companion_P4.bin",
-  "sha256": "6889075f937fcb4888953e5470f4210b9bd3d059861caec8132ec7230d8eb745",
-  "notes": "4.3 inch: second clock, new keyboard"
+  "version": "0.3.20",
+  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.20-p4/X2D_Companion_P4.bin",
+  "sha256": "1eb9b7d661181eeebfd0bb3a1b475d7a267f029ceb8245826e013b883f83869d",
+  "notes": "4.3 inch: Wi-Fi fixes, connected network shown, clock face setting"
 }
