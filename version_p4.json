@@ -1,6 +1,6 @@
 {
-  "version": "0.3.16",
-  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.16-p4/X2D_Companion_P4.bin",
-  "sha256": "0823c319c245907c164b5324210d6d1310758db8924d8be2824646c23f8d2a85",
-  "notes": "4.3 inch: new full-width QWERTY keyboard"
+  "version": "0.3.17",
+  "url": "https://github.com/nadavfedida/PrintBuddy-releases/releases/download/v0.3.17-p4/X2D_Companion_P4.bin",
+  "sha256": "73537bc39cba5e0a680744d7dccae87eacd96a0c940b8810a40342b46ebbbad1",
+  "notes": "4.3 inch: second clock from another country on the digital clock"
 }
